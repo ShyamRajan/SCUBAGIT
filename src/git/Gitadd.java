@@ -6,7 +6,7 @@ public class Gitadd {
 		// TODO Auto-generated method stub
 		int a = 10;
 		int b = 10;
-		System.out.println(a+b);
+		System.out.println(a-b);
 
 	}
 
